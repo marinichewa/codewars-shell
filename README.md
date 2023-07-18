@@ -1,2 +1,2 @@
 # codewars-shell
-my Solution
+my Solutions
