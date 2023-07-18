@@ -1,0 +1,2 @@
+# codewars-shell
+my Solution
